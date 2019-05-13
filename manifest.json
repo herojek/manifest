@@ -1,0 +1,38 @@
+{
+  "name": "HerOjek.com",
+  "short_name": "HerOjek",
+  "start_url": "https://www.herojek.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#237f52",
+  "description": "Blog yang membahas tentang Ojek Online, Gojek, Grab, Download Mod Gojek, Download Mod Grab, Download Fake GPS, dan artikel menarik lainnya.",
+  "icons": [{
+    "src": "https://cdn.statically.io/img/2.bp.blogspot.com/-EM9vszCSYpA/XNmPvxOUtSI/AAAAAAAAADY/VM9jJxYcb-4s6FlaSCzwbfYBsoxihF9wACLcBGAs/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/2.bp.blogspot.com/-dfZ0MwyCECk/XNmPwKRl23I/AAAAAAAAADc/e5igQy3ViNo9mXxxRfs5Irjp7lhnOsjLgCLcBGAs/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/3.bp.blogspot.com/-UTH0QIrpClQ/XNmTG3MJ8GI/AAAAAAAAAEA/E8Pd8ROMVWM8ts145zxStY9VKKokAyStQCLcBGAs/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/2.bp.blogspot.com/-ldtUhRx_tqk/XNmPvplwTPI/AAAAAAAAADQ/D_CP0Q6u_zYzspjtrg354OqQgWQYWGuNgCLcBGAs/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/4.bp.blogspot.com/--prHTtMLPhI/XNmTHLnh0UI/AAAAAAAAAEI/jheNL6ANH3Qj1lgEgkde6-Mz9yqo-bm-gCLcBGAs/s1600/herojek-168x168.PNG",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/3.bp.blogspot.com/-cFKRzUwo8z8/XNmPvte9oPI/AAAAAAAAADU/L9n2L-bO6NkG4K7Xe0LCVXANmHR5z_sPACLcBGAs/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-Bg4E1e_DkG0/XNmTHE60tgI/AAAAAAAAAEE/3HauXoycYvgzz04EGwedALTBIBZnqkYqwCLcBGAs/s1600/logo-512x512.PNG",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
